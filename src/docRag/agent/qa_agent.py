@@ -1,6 +1,6 @@
 from docRag.data_preprocess.index import set_index
 from docRag.data_preprocess.embed import get_embedding_model
-from docRag.qna.generate_answers import generate_response
+from docRag.agent.generate_answers import generate_response
 from docRag.data_ingestion.data_insert import fetch_embeddings, semantic_search, initialize_db
 
 class QueryAgent:

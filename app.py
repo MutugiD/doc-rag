@@ -1,5 +1,5 @@
 import streamlit as st
-from src.qa_agent import Ray_LLM_QA
+from docRag.agent.qa_agent import Ray_LLM_QA
 import base64
 import os
 

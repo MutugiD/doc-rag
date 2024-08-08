@@ -8,4 +8,5 @@ datasets
 scikit-learn
 bitsandbytes
 langchain-community
+streamlit 
 -e .
