@@ -1,0 +1,11 @@
+transformers
+langchain
+peft 
+ray 
+deta
+torch 
+datasets
+scikit-learn
+bitsandbytes
+langchain-community
+-e .
